@@ -1,4 +1,4 @@
-This the the readme file for gitmerge.
+This the the readme file for gitmerge
 
-This is an edit on master barcnh
+this the the edit on merge branch
  
